@@ -8,8 +8,8 @@ int main()
     do 
     {
         printf ("Hello Mong\r\n");
-        sleep(20);
-    }while (++x < 100);
+        sleep(10);
+    }while (++x < 10);
     
     return 0;
 }
